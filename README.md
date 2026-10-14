@@ -1,7 +1,7 @@
 # sql-olist-ecommerce-data-warehouse
 End-to-end data warehouse project using SQL Server, ETL pipelines, Kimball dimensional modelling, data quality checks, and business analytics on Brazilian E-Commerce Public Dataset by Olist.
 
-# Data Warehouse and Analytics Project
+# Brazilian E-Commerce Public Dataset by Olist Project
 
 Welcome to the **Brazilian E-Commerce Public Dataset by Olist** repository! 🚀  
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
